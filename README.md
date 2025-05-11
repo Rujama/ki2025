@@ -29,3 +29,11 @@
 📄 **Beschreibung:** Hover über "Actions" und wähle im Dropdown die Option "Import Annotations" aus.
 
 ![Labels einfügen](./tutorial/start4.png)
+
+---
+
+### ✅ Schritt 5 – Labels einfügen III
+
+📄 **Beschreibung:** Klicke auf die Option "Import Polygon annotations" und ziehe dort die Annotations Datei "labels_ki2025_pv_st_0_150_2025-xxx" hinein. Bestätige durch drücken auf "Import".
+
+![Labels einfügen](./tutorial/start5.png)
