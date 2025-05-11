@@ -19,7 +19,7 @@
 
 ### ⚙️ Schritt 2 – Bilder einfügen
 
-📄 **Beschreibung:** Ziehe alle Bilder aus dem "anlagen" Ordner in das Drop-Feld der Website und drücke auf den "Object Detection" Button.
+📄 **Beschreibung:** Ziehe alle Bilder aus dem "anlage" Ordner in das Drop-Feld der Website und drücke auf den "Object Detection" Button.
 
 ![Bilder einfügen](./tutorial/start2.png)
 
