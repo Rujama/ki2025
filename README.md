@@ -2,10 +2,10 @@
 
 ### 🟢 Was sollst du machen?
 1. Folge der Anleitung ab "schritt 1 - Makesense.ai öffnen" bis "Schritt 5 - Labels einfügen III"
-2. Prüfe die von mir annotieten Bilder 1 ~ 150.
-3. Annotiere die Bilder 151 ~ 300 (bzw den Rest).
+2. Prüfe die von mir annotieten Bilder und editiere Inhalte, die du als falsch oder unzureichend erachtest.
+3. Annotiere die restlichen Bilder ab Dessau_3_02x01.
 4. Exportiere die Annotationen über das Action Dropdown-Menü als Polygon -> "COCO JSON" Datei und lade sie im GitHub hoch.
-5. Informiere mich.
+5. Informiere mich, damit ich deine annotation validieren kann.
 
 
 
